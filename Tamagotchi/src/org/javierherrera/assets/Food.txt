@@ -1,0 +1,9 @@
+------------------------- Elige una Opción Y luego Elije si continuar o salir-------------------------
+
+1. Hamburgesa (peso 0.24) (Felicidad 3) (Hambre -25) 
+2. Albondigas (peso 0.15) (Felicidad 1) (Hambre -10)
+3. Pollo Frito (peso 0.20) (Felicidad 4) (Hambre -35)
+4. CocaCola (peso 0.07) (Felicidad 6) (Hambre -2)
+5. Monster (peso 0.08) (Felicidad 15) (Hambre +10)
+6. Continuar
+7. Salir
